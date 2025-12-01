@@ -45,13 +45,13 @@ This project investigates **three popular beliefs** in the Indian IPO market usi
 IPO-Event-Study/
 │
 ├── Notebooks/
-│   ├── Notebook_01_Data_Collection.ipynb       # Web scraping & API data collection
-│   ├── Notebook_02_Price_Data_Fetch.ipynb      # Yahoo Finance price extraction
-│   ├── Notebook_03_Data_Cleaning.ipynb         # Data preprocessing & validation
-│   ├── Notebook_04_Feature_Engineering.ipynb   # Calculate returns, CAR, volatility
-│   ├── Notebook_05_Hypothesis_Testing.ipynb    # Statistical tests (t-tests, effect sizes)
-│   ├── Notebook_06_Visualizations.ipynb        # Professional charts & dashboards
-│   └── Notebook_07_Final_Report.ipynb          # Executive summary & conclusions
+│   ├── Notebook_01_Data_Cleaning.ipynb                     # Importing, Cleaning and Processing of Sample Data    
+│   ├── Notebook_02_Event_Study_Returns.ipynb               # Relevant Calculation    
+│   ├── Notebook_03_Hypothesis_Testing.ipynb                # Pipeline Hypotheses and Relevant Calculations
+│   ├── Notebook_04_Dataloader_And_Builder.ipynb            # Loading Mainboard IPO Data & NIFTY Data & Processing
+│   ├── Notebook_05_Enriched_Hypotheses.ipynb               # Statistical Testing of the target hypotheses    
+│   ├── Notebook_06_Visuals_And_Dashboards.ipynb            # Professional charts & dashboards
+│   └── Notebook_07_OutputReport_And_Summary.ipynb          # Executive summary & conclusions
 │
 ├── IPO_Meta/
 │   ├── ipo_metadata_enriched.csv               # IPO metadata (subscription, retail%)
