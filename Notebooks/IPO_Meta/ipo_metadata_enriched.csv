@@ -1,0 +1,40 @@
+company_name,ticker,listing_date,subscription_category,issue_open,issue_close,issue_price,issue_size,retail_pct,qib_pct,sector,notes
+Mamata Machinery,MAMATA.NS,2024-12-27,High,2024-12-19,2024-12-23,243,179.31,195.23,72.35,Machinery Manufacturing,Highest subscription in 2024
+Unimech Aerospace,UNIMECH.NS,2024-12-31,High,2024-12-23,2024-12-26,785,500.07,175.43,68.25,Aerospace & Defense,Strong defense sector play
+Mobikwik Systems,MOBIKWIK.NS,2024-12-18,High,2024-12-11,2024-12-13,279,572.00,124.58,45.32,Fintech,Digital payments platform
+Senores Pharmaceuticals,SENORES.NS,2024-12-30,High,2024-12-20,2024-12-24,395,582.48,97.84,85.45,Pharmaceuticals,API manufacturer
+Transrail Lighting,TRANSRAILL.NS,2024-12-27,High,2024-12-19,2024-12-23,432,839.23,82.15,76.89,Railway Equipment,Railway electrification
+Waaree Energies,WAAREEENER.NS,2024-10-28,High,2024-10-21,2024-10-23,1503,4321.44,59.62,106.71,Solar Energy,Largest solar panel maker
+Tata Technologies,TATATECH.NS,2023-11-30,High,2023-11-22,2023-11-24,500,3042.00,69.24,88.92,IT Services,Tata Group; Engineering services
+Azad Engineering,AZAD.NS,2024-01-19,High,2024-01-11,2024-01-15,570,740.00,63.18,79.34,Precision Engineering,Aerospace components
+Eternal,ETERNAL.NS,2021-07-23,High,2021-07-14,2021-07-16,76,9375.00,7.45,51.79,Food Delivery,First unicorn IPO; high anchor participation
+Motisons Jewellers,MOTISONS.NS,2024-12-20,High,2024-12-12,2024-12-16,52,151.50,56.32,41.23,Jewelry Retail,Rajasthan-based jeweler
+Jyoti CNC Automation,JYOTICNC.NS,2024-01-12,High,2024-01-04,2024-01-08,315,1000.50,53.18,68.45,Machine Tools,CNC machine manufacturer
+DOMS Industries,DOMS.NS,2023-12-20,High,2023-12-11,2023-12-14,790,1200.35,52.47,71.28,Stationery,Market leader in stationery
+Paytm,PAYTM.NS,2021-11-18,High,2021-11-08,2021-11-10,2150,18300.00,1.66,2.79,Fintech,Largest IPO 2021; disappointing listing
+Bharti Hexacom,BHARTIHEXA.NS,2024-04-12,High,2024-04-03,2024-04-05,570,4275.00,49.87,92.15,Telecom,Bharti Airtel subsidiary
+Suraj Estate Developers,SURAJEST.NS,2024-06-14,High,2024-06-05,2024-06-07,340,400.23,48.35,55.67,Real Estate,Mumbai-based developer
+Nykaa,NYKAA.NS,2021-11-10,High,2021-10-28,2021-11-01,1125,5352.00,81.78,91.82,E-commerce - Beauty,Beauty & fashion unicorn
+Bajaj Housing Finance,BAJAJHFL.NS,2024-09-16,High,2024-09-09,2024-09-11,70,6560.00,65.23,195.42,NBFC,Bajaj Finserv subsidiary; massive QIB demand
+Awfis Space Solutions,AWFIS.NS,2024-05-30,High,2024-05-21,2024-05-23,299,599.26,59.78,68.92,Real Estate - Coworking,Managed office spaces
+Aadhar Housing Finance,AADHARHFC.NS,2024-05-15,High,2024-05-08,2024-05-10,300,3000.89,54.67,71.23,NBFC - Housing,Affordable housing finance
+Protean eGov Technologies,PROTEAN.NS,2023-11-13,High,2023-11-06,2023-11-08,792,490.33,1.50,46.94,Govt Tech - e-Governance,NSDL subsidiary; 100% OFS; QIB-heavy subscription on last day
+Hyundai Motor India,HYUNDAI.NS,2024-10-22,Low,2024-10-15,2024-10-17,1960,27870.00,2.37,7.12,Automobile Manufacturing,Largest IPO of 2024; pure OFS
+Swiggy,SWIGGY.NS,2024-11-13,Low,2024-11-06,2024-11-08,390,11327.43,3.59,6.02,Food Delivery,Major unicorn; high burn rate
+Sagility India,SAGILITY.NS,2024-11-11,Low,2024-11-05,2024-11-07,30,2106.60,3.20,4.87,Healthcare BPO,PE-backed exit
+Niva Bupa Health,NIVABUPA.NS,2024-11-11,Low,2024-11-07,2024-11-11,74,2200.00,2.92,5.18,Health Insurance,Max-Bupa rebranded
+Ola Electric,OLAELEC.NS,2024-08-09,Low,2024-08-02,2024-08-06,76,6145.56,4.27,9.85,Electric Vehicles,Loss-making EV maker
+Delhivery,DELHIVERY.NS,2022-05-24,Low,2022-05-10,2022-05-12,487,5235.00,2.01,2.04,Logistics,E-commerce logistics provider
+EaseMyTrip,EASEMYTRIP.NS,2021-03-19,Low,2021-03-08,2021-03-10,187,510.00,159.18,99.57,Travel Tech,OTA platform; rare profitable tech IPO
+Carraro India,CARRARO.NS,2024-12-24,Low,2024-12-20,2024-12-23,704,1243.74,2.85,3.92,Auto Components,Transmission systems
+Suraksha Diagnostic,SURAKSHA.NS,2024-12-06,Low,2024-11-29,2024-12-03,441,846.50,3.10,4.25,Healthcare - Diagnostics,Eastern India presence
+Indo Farm Equipment,INDOFARM.NS,2024-12-31,Low,2024-12-26,2024-12-30,260,260.15,2.50,3.18,Agricultural Equipment,Tractor implements
+CarTrade Tech,CARTRADE.NS,2021-08-20,Low,2021-08-09,2021-08-11,1618,2999.09,2.08,16.63,Auto Tech,Online auto classifieds
+Sanathan Textiles,SANATHAN.NS,2024-12-27,Low,2024-12-19,2024-12-23,321,550.78,2.75,3.87,Textiles,Home textiles exporter
+Nazara Technologies,NAZARA.NS,2021-03-30,Low,2021-03-17,2021-03-19,1101,582.96,175.43,103.64,Gaming & Esports,Gaming platform; high retail interest
+Latent View Analytics,LATENTVIEW.NS,2021-11-23,Low,2021-11-10,2021-11-12,197,600.00,326.91,158.72,IT - Analytics,Data analytics services; high subscription
+IRCTC,IRCTC.NS,2019-10-14,Low,2019-09-30,2019-10-03,320,645.00,112.26,53.89,Railway Services,Indian Railways subsidiary; actually high sub
+Fino Payments Bank,FINOPB.NS,2021-10-29,Low,2021-10-19,2021-10-21,577,1200.00,2.28,3.35,Fintech - Banking,Payments bank
+Indiamart Intermesh,INDIAMART.NS,2019-07-04,Low,2019-06-24,2019-06-26,973,475.00,36.09,46.55,B2B Marketplace,B2B e-commerce platform
+Stanley Lifestyles,STANLEY.NS,2024-06-28,Low,2024-06-21,2024-06-25,369,537.02,2.60,3.78,Furniture - Premium,Luxury furniture manufacturer
+Akums Drugs,AKUMS.NS,2024-07-31,Low,2024-07-30,2024-08-01,679,1857.00,2.25,3.45,Pharmaceuticals - CDMO,Contract manufacturing
